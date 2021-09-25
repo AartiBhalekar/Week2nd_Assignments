@@ -1,0 +1,1 @@
+resttemplate99 ==(Requests data from)==> CustomerManagement ==(Fetches data from)==> DB
