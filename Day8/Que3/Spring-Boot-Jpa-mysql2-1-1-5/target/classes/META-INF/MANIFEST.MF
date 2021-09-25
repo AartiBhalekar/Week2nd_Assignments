@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 91973
+Build-Jdk: 15
+Implementation-Title: Spring-Boot-Jpa-mysql Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cj.spring1-1
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
